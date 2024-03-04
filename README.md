@@ -1,2 +1,2 @@
-# Codsoft_codes
-All codes i solved during my internship at Codsoft
+# Codsoft Codes
+<h3>All codes i solved during my internship at Codsoft</h3>
